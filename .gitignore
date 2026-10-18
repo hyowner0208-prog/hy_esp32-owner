@@ -1,0 +1,13 @@
+# Local build output
+/build/
+/.pio/
+/sdkconfig.old
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
